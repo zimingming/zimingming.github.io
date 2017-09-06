@@ -1,4 +1,5 @@
 # Jekyll-Jacman
+123
 
 **中文 | [English](/README_en.md)**
 
@@ -44,31 +45,31 @@ bundle exec jekyll server
 
 ## 功能
 
-- **菜单 menu**  
+- **菜单 menu**
  主导航菜单
-- **控件 widget**  
+- **控件 widget**
  侧边栏的控件。包括：Github 名片	、分类、标签、RSS、友情链接、微博秀。
-- **图片相关 Image**  
+- **图片相关 Image**
  设置网站图标、网站logo、作者头像、博客顶部大图等。还提供了多种图片样式`img-logo`,`img-topic`,`img-center`等。
-- **首页模式 index**  
+- **首页模式 index**
  主题提供了两种首页展示模式。
-- **作者 author**  
+- **作者 author**
  作者信息，主要用于展示网站右下角的社交网络链接。包括：微博、豆瓣、知乎、邮箱、GitHub、StackOverflow、Twitter、Facebook、Linkedin、Google+。
-- **目录 toc**  
+- **目录 toc**
  在文章中和侧边栏可以显示目录。
-- **评论 comments**  
+- **评论 comments**
  支持 [多说](http://duoshuo.com/) & [disqus](https://disqus.com/) 评论。
-- **分享 jiathis**  
+- **分享 jiathis**
  启用 内建分享工具 或 [加网](http://www.jiathis.com/) 分享系统。
-- **网站统计 Analytiscs**  
+- **网站统计 Analytiscs**
  支持 [谷歌统计](http://www.google.com/analytics/) & [百度统计](http://tongji.baidu.com/) & [CNZZ站长统计](http://www.cnzz.com/)。
-- **Search**  
+- **Search**
  支持 [谷歌自定义搜索](https://www.google.com/cse/ ) & [百度站内搜索](http://zn.baidu.com/)  &[微搜索](http://tinysou.com/)。 &[Simple Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search)
-- **totop**  
+- **totop**
  回到顶部。
-- **rss**  
+- **rss**
  RSS 订阅链接。
-- **fancybox**  
+- **fancybox**
  图片查看的 [Fancybox](http://fancyapps.com/fancybox/) 工具。
 - **其他**
  你可以设置侧边栏在博文页面中不显示。
